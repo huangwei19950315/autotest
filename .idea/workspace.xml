@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50d3f5fb-5a09-4874-8f58-7698ba0544c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/chapter5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/chapter5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/IgnoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/IgnoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/PayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/PayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/suiteConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/suiteConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/chapter/target/" />
     <ignored path="$PROJECT_DIR$/chapter5/target/" />
@@ -31,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/BasicAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="210">
               <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="e#340#341#0" expanded="true" />
@@ -59,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/suiteConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="255">
               <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -73,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/PayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="150">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#132#133#0" expanded="true" />
@@ -95,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupsOnMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="285">
               <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -109,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -127,12 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -194,6 +179,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,7 +241,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,13 +382,12 @@
       <workItem from="1575966812889" duration="25000" />
       <workItem from="1575977144258" duration="2290000" />
       <workItem from="1576031049478" duration="102000" />
+      <workItem from="1576033286790" duration="15000" />
+      <workItem from="1576033306283" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_emotibot_workspace_muke_autotest_chapter5_src_main_resources_suite_xml - 2019.12.10 at 16h 10m 13s.xml">
-      <configuration name="/Users/emotibot/workspace/muke/autotest/chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_emotibot_workspace_muke_autotest_chapter5_src_main_resources_suite_xml - 2019.12.10 at 16h 17m 21s.xml">
       <configuration name="/Users/emotibot/workspace/muke/autotest/chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
     </history-entry>
@@ -431,9 +415,12 @@
     <history-entry file="IgnoreTest - 2019.12.11 at 10h 25m 38s.xml">
       <configuration name="IgnoreTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="IgnoreTest - 2019.12.11 at 11h 01m 51s.xml">
+      <configuration name="IgnoreTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11234000" />
+    <option name="totallyTimeSpent" value="11257000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -448,7 +435,7 @@
     <frame x="310" y="23" width="960" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.416122" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4335512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -519,7 +506,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/BasicAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="210">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#340#341#0" expanded="true" />
@@ -543,7 +530,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/suiteConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="255">
           <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -555,7 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/Suite/PayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#132#133#0" expanded="true" />
@@ -566,20 +553,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupsOnMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="285">
           <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#448#449#0" expanded="true" />
             <element signature="e#497#498#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -590,6 +570,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter5/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -597,14 +584,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass3.java">
+    <entry file="file://$PROJECT_DIR$/chapter5/src/main/java/com/course/testng/groups/GroupClass1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>

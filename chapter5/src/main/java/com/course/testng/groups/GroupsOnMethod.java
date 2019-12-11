@@ -25,7 +25,6 @@ public class GroupsOnMethod {
     public void beforeGroupOnServer(){
         System.out.println("这是服务器组运行前的方法");
     }
-//wdqdqqddqd
     @AfterGroups("clinet")
     public void afterGroupOnServer(){
         System.out.println("这是客户端组运行后的方法");

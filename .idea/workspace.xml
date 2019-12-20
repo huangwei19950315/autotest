@@ -291,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GroupsOnMethod">
+  <component name="RunManager" selected="TestNG./Users/emotibot/workspace/muke/autotest/chapter5/src/main/resources/suite.xml">
     <configuration name="GroupsOnMethod (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="chapter5" />
       <extension name="coverage">
@@ -372,10 +372,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/emotibot/workspace/muke/autotest/chapter5/src/main/resources/suite.xml" />
         <item itemvalue="TestNG.GroupsOnMethod" />
         <item itemvalue="TestNG.IgnoreTest" />
         <item itemvalue="TestNG.GroupsOnMethod (1)" />
-        <item itemvalue="TestNG./Users/emotibot/workspace/muke/autotest/chapter5/src/main/resources/suite.xml" />
         <item itemvalue="TestNG.IgnoreTest (1)" />
       </list>
     </recent_temporary>
